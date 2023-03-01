@@ -54,7 +54,7 @@ const Footer = () => {
               <FaEnvelope /> Email
             </Button>
           </a>
-          <a href="https://jjjoypenticton.dispatchninja.com/order">
+          <a href="/">
             <Button fontBig primary>
               <FaRunning />
               Delivery
@@ -69,7 +69,7 @@ const Footer = () => {
             <SocialIcon />
             JJ-Joy
           </SocialLogo>
-          <WebsiteRights>HHStudio©2022</WebsiteRights>
+          <WebsiteRights>HHStudio©2023</WebsiteRights>
           <SocialIcons>
             <SocialIcoLink
               href="https://www.facebook.com/thejjjoy"

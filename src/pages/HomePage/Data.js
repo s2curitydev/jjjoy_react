@@ -31,9 +31,10 @@ export const homeObjTwo = {
   buttonLabel: "Get Started",
   description:
     "Make your party delicious! We do deliver our food on time to your front door step! Ask Server for further information.",
-  headline: "House Delivery is available",
+  headline: "House Delivery is unavailable temporarily",
   lightText: false,
-  topLine: "Catering + House Delivery",
+  // topLine: "Catering + House Delivery",
+  topLine: "",
   img: logo,
   alt: "image",
   start: "true",
